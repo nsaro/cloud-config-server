@@ -12,4 +12,4 @@ category:
 transaction:
   service:
     url: https://o5mpc77fx0.execute-api.eu-west-2.amazonaws.com/default/showcase-assignment-transactions-service
-    key: LdqTdyITMo14dKNtjehdO4JhiXYpHV9U9qz5Xtp3    
+      key: LdqTdyITMo14dKNtjehdO4JhiXYpHV9U9qz5Xtp3    
