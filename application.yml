@@ -8,7 +8,7 @@ eureka:
     hostname: localhost
 category:
   service:
-    url: http://localhost:9091/categories/getCategory/{transactionType}
+    url: http://categorization-service/categories/getCategory/{transactionType}
 transaction:
   service:
     url: https://o5mpc77fx0.execute-api.eu-west-2.amazonaws.com/default/showcase-assignment-transactions-service
