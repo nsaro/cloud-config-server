@@ -9,6 +9,9 @@ eureka:
 category:
   service:
     url: http://categorization-service/categories/getCategory/{transactionType}
+rest:
+  test:
+    url: http://rest-test-service/rest/getTest
 transaction:
   service:
     url: https://o5mpc77fx0.execute-api.eu-west-2.amazonaws.com/default/showcase-assignment-transactions-service
